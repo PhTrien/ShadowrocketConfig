@@ -5,15 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/PhTrien/ShadowrocketConfig/blob/main/ALL_IN_ONE_BY_MHALE.sgmodule" title="View">
-    <img src="https://img.shields.io/badge/version-v1.0-0ea5e9?style=flat-pill">
-  </a>
-  <a href="https://apps.apple.com/app/shadowrocket/id932747118" title="Open App Store">
-    <img src="https://img.shields.io/badge/platform-iOS-111827?style=flat-pill&logo=apple&logoColor=white">
-  </a>
-  <a href="https://github.com/PhTrien" title="Author GitHub">
-    <img src="https://img.shields.io/badge/author-PhTrien-7c3aed?style=flat-pill&logo=github&logoColor=white">
-  </a>
+  [![Version](https://img.shields.io/badge/version-v1.0-0ea5e9?style=flat-pill)](https://github.com/PhTrien/ShadowrocketConfig/blob/main/ALL_IN_ONE_BY_MHALE.sgmodule)
+  [![Platform](https://img.shields.io/badge/platform-iOS-111827?style=flat-pill&logo=apple&logoColor=white)](https://apps.apple.com/app/shadowrocket/id932747118)
+  [![Author](https://img.shields.io/badge/author-PhTrien-7c3aed?style=flat-pill&logo=github&logoColor=white)](https://github.com/PhTrien)
 </p>
 
 ---
