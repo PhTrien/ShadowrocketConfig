@@ -5,8 +5,13 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-v1.0-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/platform-iOS-black?style=for-the-badge">
+  <a href="https://github.com/PhTrien/ShadowwrocketConfig/">
+    <img src="https://img.shields.io/badge/VERSION-v1.0-0ea5e9?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+
+  <a href="https://apps.apple.com/app/shadowrocket/id932747118">
+    <img src="https://img.shields.io/badge/PLATFORM-iOS-111827?style=for-the-badge&logo=apple&logoColor=white">
+  </a>
 </p>
 
 ---
