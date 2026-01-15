@@ -47,12 +47,6 @@
 4. Tận hưởng 🚀
 
 ---
-
-## ⚠️ Disclaimer
-
-> **This project is created solely for educational purposes.**  
-> You are fully responsible for any misuse or illegal use of this configuration.
-
 ---
 
 <p align="center">
