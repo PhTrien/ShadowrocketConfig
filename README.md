@@ -1,9 +1,16 @@
-<p align="center">
-  <img src="https://github.com/PhTrien/ShadowrocketConfig/blob/main/Logo.png" width="100">
-  <strong style="font-size:30px;">❌</strong>
-  <img src="https://github.com/PhTrien/ShadowrocketConfig/blob/main/logoshadowrocket.jpg" width="100">
-</p>
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/PhTrien/ShadowrocketConfig/blob/main/Logo.png" width="90">
+    </td>
+    <td align="center" style="font-size:32px;">
+      ❌
+    </td>
+    <td align="center">
+      <img src="https://github.com/PhTrien/ShadowrocketConfig/blob/main/logoshadowrocket.jpg" width="90">
+    </td>
+  </tr>
+</table>
 
 <h1 align="center">Shadowrocket Config</h1>
 
