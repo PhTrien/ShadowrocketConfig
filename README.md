@@ -1,6 +1,4 @@
 <p align="center">
-  <img src="https://github.com/PhTrien/ShadowrocketConfig/blob/main/logoshadowrocket.jpg" width="90" style="vertical-align: middle;">
-  <span style="font-size:32px; padding: 0 10px;">❌</span>
   <img src="https://github.com/PhTrien/ShadowrocketConfig/blob/main/Logo.png" width="90" style="vertical-align: middle;">
 </p>
 
