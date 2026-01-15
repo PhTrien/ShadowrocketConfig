@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://github.com/PhTrien/ShadowrocketConfig/blob/main/Logo.png" width="90" style="vertical-align: middle;">
-</p>
-
-
 <h1 align="center">Shadowrocket Config</h1>
 
 <p align="center">
