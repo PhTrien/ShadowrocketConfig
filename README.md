@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/PhTrien/ShadowrocketConfig/blob/main/ALL_IN_ONE_BY_MHALE.sgmodule" title="View Releases">
+  <a href="https://raw.githubusercontent.com/PhTrien/ShadowrocketConfig/refs/heads/main/ALL_IN_ONE_BY_MHALE.sgmodule" title="View Releases">
     <img src="https://img.shields.io/badge/version-v1.0-0ea5e9?style=flat-pill">
   </a>
   <a href="https://apps.apple.com/app/shadowrocket/id932747118" title="Open App Store">
