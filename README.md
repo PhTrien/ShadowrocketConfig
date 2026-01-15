@@ -1,20 +1,11 @@
-<h1 align="center">🚀 Shadowrocket Config</h1>
+# 🚀 Shadowrocket Config
+
+**Unlock Premium Apps • Stable • Fast • Secure**
 
 <p align="center">
-  <b>Unlock Premium Apps • Stable • Fast • Secure</b><br>
-  Optimized configuration for Shadowrocket on iOS
-</p>
-
-<p align="center">
-  <a href="https://raw.githubusercontent.com/PhTrien/ShadowrocketConfig/refs/heads/main/ALL_IN_ONE_BY_MHALE.sgmodule">
-    <img src="https://img.shields.io/badge/version-v1.0-0ea5e9?style=for-the-badge">
-  </a>
-  <a href="https://apps.apple.com/app/shadowrocket/id932747118">
-    <img src="https://img.shields.io/badge/platform-iOS-111827?style=for-the-badge&logo=apple&logoColor=white">
-  </a>
-  <a href="https://github.com/PhTrien">
-    <img src="https://img.shields.io/badge/author-PhTrien-7c3aed?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+  <img src="https://img.shields.io/badge/version-v1.0-1f6feb?style=flat">
+  <img src="https://img.shields.io/badge/platform-iOS-111827?style=flat&logo=apple&logoColor=white">
+  <img src="https://img.shields.io/badge/author-PhTrien-7c3aed?style=flat&logo=github&logoColor=white">
 </p>
 
 ---
@@ -40,30 +31,10 @@
 
 ---
 
-## 🔗 Config Download
+## 🔗 Config URL
 
-<p align="center">
-  <code id="configLink">
+```text
 https://raw.githubusercontent.com/PhTrien/ShadowrocketConfig/refs/heads/main/ALL_IN_ONE_BY_MHALE.sgmodule
-  </code>
-</p>
-
-<p align="center">
-  <button onclick="navigator.clipboard.writeText('https://raw.githubusercontent.com/PhTrien/ShadowrocketConfig/refs/heads/main/ALL_IN_ONE_BY_MHALE.sgmodule')" style="
-    padding:10px 18px;
-    font-size:14px;
-    border-radius:8px;
-    border:none;
-    cursor:pointer;
-    background:#0ea5e9;
-    color:white;
-  ">
-    📋 Click để sao chép link
-  </button>
-</p>
-
----
-
 ## 📥 How to Use
 
 1. Cài **Shadowrocket** từ App Store  
