@@ -1,35 +1,34 @@
-<h1 align="center">Shadowrocket Config</h1>
+<h1 align="center">🚀 Shadowrocket Config</h1>
 
 <p align="center">
-  Unlock Premium Apps • Stable • Fast • Secure
+  <b>Unlock Premium Apps • Stable • Fast • Secure</b><br>
+  Optimized configuration for Shadowrocket on iOS
 </p>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/PhTrien/ShadowrocketConfig/refs/heads/main/ALL_IN_ONE_BY_MHALE.sgmodule" title="View Releases">
-    <img src="https://img.shields.io/badge/version-v1.0-0ea5e9?style=flat-pill">
+  <a href="https://raw.githubusercontent.com/PhTrien/ShadowrocketConfig/refs/heads/main/ALL_IN_ONE_BY_MHALE.sgmodule">
+    <img src="https://img.shields.io/badge/version-v1.0-0ea5e9?style=for-the-badge">
   </a>
-  <a href="https://apps.apple.com/app/shadowrocket/id932747118" title="Open App Store">
-    <img src="https://img.shields.io/badge/platform-iOS-111827?style=flat-pill&logo=apple&logoColor=white">
+  <a href="https://apps.apple.com/app/shadowrocket/id932747118">
+    <img src="https://img.shields.io/badge/platform-iOS-111827?style=for-the-badge&logo=apple&logoColor=white">
   </a>
-  <a href="https://github.com/PhTrien" title="Author GitHub">
-    <img src="https://img.shields.io/badge/author-PhTrien-7c3aed?style=flat-pill&logo=github&logoColor=white">
+  <a href="https://github.com/PhTrien">
+    <img src="https://img.shields.io/badge/author-PhTrien-7c3aed?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
 ---
 
-## 🚀 Giới thiệu
+## ✨ Features
 
-**Shadowrocket Config** là bộ cấu hình giúp:
-
-- 🔓 Unlock nhiều app Premium  
-- ⚡ Tối ưu tốc độ mạng  
-- 🛡️ Bảo mật & ổn định  
-- 📱 Dùng cho **Shadowrocket / iOS**
+- 🔓 Unlock nhiều ứng dụng Premium
+- ⚡ Tối ưu tốc độ & độ ổn định
+- 🛡️ An toàn – không can thiệp hệ thống
+- 📱 Dành riêng cho **Shadowrocket (iOS)**
 
 ---
 
-## 📦 App hỗ trợ
+## 📦 Supported Apps
 
 - YouTube Premium  
 - Spotify  
@@ -37,19 +36,64 @@
 - Wink  
 - SoundCloud  
 - Truecaller  
-- *và nhiều app khác...*
+- *More apps coming soon...*
 
 ---
 
-## 📥 Cách sử dụng
-
-1. Cài **Shadowrocket**
-2. Import file config
-3. Bật kết nối
-4. Tận hưởng 🚀
-
----
+## 🔗 Config Download
 
 <p align="center">
-  ⭐ Nếu thấy hữu ích, hãy cho repo một star!
+  <code id="configLink">
+https://raw.githubusercontent.com/PhTrien/ShadowrocketConfig/refs/heads/main/ALL_IN_ONE_BY_MHALE.sgmodule
+  </code>
+</p>
+
+<p align="center">
+  <button onclick="navigator.clipboard.writeText('https://raw.githubusercontent.com/PhTrien/ShadowrocketConfig/refs/heads/main/ALL_IN_ONE_BY_MHALE.sgmodule')" style="
+    padding:10px 18px;
+    font-size:14px;
+    border-radius:8px;
+    border:none;
+    cursor:pointer;
+    background:#0ea5e9;
+    color:white;
+  ">
+    📋 Click để sao chép link
+  </button>
+</p>
+
+---
+
+## 📥 How to Use
+
+1. Cài **Shadowrocket** từ App Store  
+2. Mở app → vào tab **Modules**  
+3. Nhấn **➕ Add / Download**  
+4. Chọn **Download from URL (Click here)**  
+5. **Paste link config** đã copy ở trên  
+6. Nhấn **Download / OK**  
+7. **Enable module** vừa thêm  
+8. Quay lại màn hình chính → **Connect**
+9. Mở app và tận hưởng 🚀
+
+---
+
+## ⚠️ Notes
+
+- Một số app cần **xóa và cài lại** để có hiệu lực  
+- Không nên đăng nhập **tài khoản chính**
+- Không bật song song VPN khác
+
+---
+
+## ❤️ Support
+
+Nếu thấy project hữu ích:
+
+⭐ **Hãy cho repo một Star**  
+🐞 Báo lỗi bằng **Issues**  
+🤝 Đóng góp bằng **Pull Requests**
+
+<p align="center">
+  Made with ❤️ by <a href="https://github.com/PhTrien">PhTrien</a>
 </p>
