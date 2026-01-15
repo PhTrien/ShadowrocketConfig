@@ -1,11 +1,20 @@
-# 🚀 Shadowrocket Config
-
-**Unlock Premium Apps • Stable • Fast • Secure**
+<h1 align="center">Shadowrocket Config</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-v1.0-1f6feb?style=flat">
-  <img src="https://img.shields.io/badge/platform-iOS-111827?style=flat&logo=apple&logoColor=white">
-  <img src="https://img.shields.io/badge/author-PhTrien-7c3aed?style=flat&logo=github&logoColor=white">
+  <b>Unlock Premium Apps • Stable • Fast • Secure</b><br>
+  Optimized configuration for Shadowrocket on iOS
+</p>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/PhTrien/ShadowrocketConfig/refs/heads/main/ALL_IN_ONE_BY_MHALE.sgmodule" title="View Releases">
+    <img src="https://img.shields.io/badge/version-v1.0-0ea5e9?style=flat-pill">
+  </a>
+  <a href="https://apps.apple.com/app/shadowrocket/id932747118" title="Open App Store">
+    <img src="https://img.shields.io/badge/platform-iOS-111827?style=flat-pill&logo=apple&logoColor=white">
+  </a>
+  <a href="https://github.com/PhTrien" title="Author GitHub">
+    <img src="https://img.shields.io/badge/author-PhTrien-7c3aed?style=flat-pill&logo=github&logoColor=white">
+  </a>
 </p>
 
 ---
@@ -31,28 +40,30 @@
 
 ---
 
-## 🔗 Config URL
-
-```text
-https://raw.githubusercontent.com/PhTrien/ShadowrocketConfig/refs/heads/main/ALL_IN_ONE_BY_MHALE.sgmodule
 ## 📥 How to Use
 
-1. Cài **Shadowrocket** từ App Store  
-2. Mở app → vào tab **Modules**  
-3. Nhấn **➕ Add / Download**  
-4. Chọn **Download from URL (Click here)**  
-5. **Paste link config** đã copy ở trên  
-6. Nhấn **Download / OK**  
-7. **Enable module** vừa thêm  
-8. Quay lại màn hình chính → **Connect**
-9. Mở app và tận hưởng 🚀
+1. Cài **Shadowrocket** từ App Store
+2. **Copy link sau**
+3.   ```
+     https://raw.githubusercontent.com/PhTrien/ShadowrocketConfig/refs/heads/main/ALL_IN_ONE_BY_MHALE.sgmodule
+     ```
+4. Mở app → vào tab **Config [Cấu hình]** → **Modules**  
+5. Nhấn **➕** 
+7. Nhấn **Download**
+8. Bám lại vào tab **Config [Cấu hình]**
+9. Nhấn **➕**
+10. Dán link vừa copy vào
+11. Nhấn **Download**
+12. **Enable module** vừa thêm  
+13. Quay lại màn hình chính → **Connect**
+14. Mở app và tận hưởng 🚀
 
 ---
 
 ## ⚠️ Notes
 
-- Một số app cần **xóa và cài lại** để có hiệu lực  
-- Không nên đăng nhập **tài khoản chính**
+- Một số app cần **xóa và cài lại** để có hiệu lực
+- Dành cho người có kiến thức về **Shadowrocket**
 - Không bật song song VPN khác
 
 ---
