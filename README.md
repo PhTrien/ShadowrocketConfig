@@ -44,7 +44,7 @@
 
 1. Cài **Shadowrocket** từ App Store
 2. **Copy link sau**
-3.   ```
+     ```
      https://raw.githubusercontent.com/PhTrien/ShadowrocketConfig/refs/heads/main/ALL_IN_ONE_BY_MHALE.sgmodule
      ```
 4. Mở app → vào tab **Config [Cấu hình]** → **Modules**  
