@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PhTrien/ShadowwrocketConfig/main/logo.png" width="120">
+  <img src="https://github.com/PhTrien/ShadowrocketConfig/blob/main/Logo.png" width="100">
+  <strong style="font-size:30px;">❌</strong>
+  <img src="https://github.com/PhTrien/ShadowrocketConfig/blob/main/logoshadowrocket.jpg" width="100">
 </p>
+
 
 <h1 align="center">Shadowrocket Config</h1>
 
@@ -46,7 +49,6 @@
 3. Bật kết nối
 4. Tận hưởng 🚀
 
----
 ---
 
 <p align="center">
