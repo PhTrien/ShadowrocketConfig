@@ -62,7 +62,7 @@ Tài liệu này hướng dẫn **đầy đủ các bước cài đặt Shadowro
 Shadowrocket **chỉ hoạt động đúng** khi:
 - File cấu hình đã được import và kích hoạt
 - Certificate đã được cài đặt
-- Certificate đã được **Trust (tin cậy)** trong iOS
+- Certificate đã được **Trust (tin cậy)** trong iOS và phải bật **IPv6**
 
 
 ## 🔧 Các bước cài đặt
