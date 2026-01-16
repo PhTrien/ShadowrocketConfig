@@ -42,21 +42,100 @@
 
 ## 📥 How to Use
 
-1. Cài **Shadowrocket** từ App Store
-2. **Copy link sau**
-     ```
-     https://raw.githubusercontent.com/PhTrien/ShadowrocketConfig/refs/heads/main/ALL_IN_ONE_BY_MHALE.sgmodule
-     ```
-4. Mở app → vào tab **Config [Cấu hình]** → **Modules**  
-5. Nhấn **➕** 
-7. Nhấn **Download**
-8. Nhấn lại vào tab **Config [Cấu hình]**
-9. Nhấn **➕**
-10. Dán link vừa copy vào
-11. Nhấn **Download**
-12. **Enable module** vừa thêm  
-13. Quay lại màn hình chính → **Connect**
-14. Mở app và tận hưởng 🚀
+Tài liệu này hướng dẫn **đầy đủ các bước cài đặt Shadowrocket trên iOS**, bao gồm:
+- Import file cấu hình
+- Cài đặt **Certificate** **(Chứng Chỉ)**
+- **BẬT chứng chỉ tin cậy (Trust Certificate)** trong iOS  
+⚠️ Nếu không bật chứng chỉ tin cậy, VPN sẽ kết nối nhưng **Không Unlock Premium AppApp**.
+
+
+## 📌 Yêu cầu
+- iPhone / iPad (iOS)
+- Đã cài ứng dụng **Shadowrocket**
+- Copy link sau:
+    ---
+       https://raw.githubusercontent.com/PhTrien/ShadowrocketConfig/refs/heads/main/ALL_IN_ONE_BY_MHALE.sgmodule?v1
+    --- 
+
+
+## ⚠️ LƯU Ý QUAN TRỌNG (BẮT BUỘC)
+Shadowrocket **chỉ hoạt động đúng** khi:
+- File cấu hình đã được import và kích hoạt
+- Certificate đã được cài đặt
+- Certificate đã được **Trust (tin cậy)** trong iOS
+
+
+## 🔧 Các bước cài đặt
+
+### Bước 1: Mở ứng dụng Shadowrocket
+- Mở ứng dụng **Shadowrocket** trên iPhone.
+
+
+### Bước 2: Vào mục Config
+- Nhấn tab **Config** ở thanh menu phía dưới.
+- Nhấn vào mục **Modules** bên trên mục **Quy tắc kiểm tra**
+
+
+### Bước 3: Import file cấu hình
+- Nhấn **Import…** hoặc dấu **+** góc trên bên phải.
+- Dán Link vừa copy vào
+- Nhấn **Tải xuống**
+- Nhấn tab **Config** ở thanh menu phía dưới.
+- Nhấn **Import…** hoặc dấu **+** góc trên bên phải.
+- Dán Link vừa copy vào
+- Nhấn **Tải xuống**
+
+
+### Bước 4: Kích hoạt config
+- Nhấn vào **tên config vừa import** và chọn **Sử dụng Config**
+- Đảm bảo config đang ở trạng thái được chọn.
+- Nhấn ⓘ → Chọn **Tổng quát** và bật **IPv6** lên
+- Quay trở ra → Chọn **Giải mã HTTPS** → Gạt công tắc
+
+
+### Bước 5: Cài đặt Certificate
+- Shadowrocket sẽ yêu cầu cài **Cấu hình**
+- Thực hiện:
+  - Chọn **Tạo Chứng chỉ CA mới** → Xá nhận **Tạo Chứng chỉ CA mới**
+  - Chọn **Cài đặt Chứng chỉ CA vào Hệ thống** → **Cho phép** → **Đóng
+
+> ⚠️ Không cài Certificate → rule và HTTPS sẽ không hoạt động.
+
+
+### Bước 6: BẬT CHỨNG CHỈ TIN CẬY (RẤT QUAN TRỌNG)
+Vào theo đường dẫn:
+- **Cài đặt → Cài đặt chung → VPN & Quản lý thiết bị→ Nhấn vào Cấu hình vừa cài → Chọn Cài Đặt**
+- **Cài đặt → Cài đặt chung → Giới thiệu → Kéo xuống dưới cùng → Cài đặt tin cậy chứng nhận → Bật cấu hình ShaShadowrocket vừa cài**
+
+> ❗ Bỏ qua bước này → VPN bật nhưng không unlock premium 
+
+
+### Bước 7: Bật VPN
+- Quay lại ứng dụng **Shadowrocket**
+- Nhấn tab **** ở thanh menu phía dưới.
+- Gạt nút **ON** 
+- Đợi trạng thái hiển thị **Connected**
+
+
+## ✅ Hoàn tất
+Shadowrocket đã hoạt động theo file cấu hình đã import và cài đặt tin cậy chứng nhận.
+
+
+## ❌ Lỗi thường gặp
+
+- **VPN kết nối nhưng không vào được mạng**  
+  → Chưa bật chứng chỉ tin cậy (Trust Certificate)
+
+- **Import config nhưng không chạy**  
+  → Chưa kích hoạt config
+
+- **Không thấy yêu cầu cài Certificate**  
+  → Vào `Config → Certificate` để kiểm tra thủ công
+
+---
+
+## 📬 Hỗ trợ
+Nếu gặp lỗi, hãy kiểm tra lại từng bước hoặc liên hệ người cung cấp config.
 
 ---
 
