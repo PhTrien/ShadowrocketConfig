@@ -50,7 +50,7 @@
 4. Mở app → vào tab **Config [Cấu hình]** → **Modules**  
 5. Nhấn **➕** 
 7. Nhấn **Download**
-8. Bám lại vào tab **Config [Cấu hình]**
+8. Nhấn lại vào tab **Config [Cấu hình]**
 9. Nhấn **➕**
 10. Dán link vừa copy vào
 11. Nhấn **Download**
