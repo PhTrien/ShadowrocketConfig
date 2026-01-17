@@ -120,6 +120,7 @@ Vào theo đường dẫn:
 ## ✅ Hoàn tất
 Shadowrocket đã hoạt động theo file cấu hình đã import và cài đặt tin cậy chứng nhận.
 
+## LƯU Ý ⚠️ **Một số app phải bật VPN khi dùng*
 
 ## ❌ Lỗi thường gặp
 
