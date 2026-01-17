@@ -117,20 +117,16 @@ Vào theo đường dẫn:
 - Đợi trạng thái hiển thị **Connected**
 
 
-## ✅ Hoàn tất
+### ✅ Hoàn tất
 Shadowrocket đã hoạt động theo file cấu hình đã import và cài đặt tin cậy chứng nhận.
 > ⚠️ **Đa số app phải bật VPN khi dùng**
 
-## ❌ Lỗi thường gặp
-
+### ❌ Lỗi thường gặp
 - **VPN kết nối nhưng không vào được mạng**  
   → Chưa bật chứng chỉ tin cậy (Trust Certificate)
 
 - **Import config nhưng không chạy**  
   → Chưa kích hoạt config
-
-- **Không thấy yêu cầu cài Certificate**  
-  → Vào `Config → Certificate` để kiểm tra thủ công
 
 ---
 
