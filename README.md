@@ -55,7 +55,6 @@ Tài liệu này hướng dẫn **đầy đủ các bước cài đặt Shadowro
 - Copy link sau:
     ---
        https://raw.githubusercontent.com/PhTrien/ShadowrocketConfig/refs/heads/main/ALL_IN_ONE_BY_MHALE.sgmodule?v1
-    --- 
 
 
 ## ⚠️ LƯU Ý QUAN TRỌNG (BẮT BUỘC)
