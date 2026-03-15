@@ -54,8 +54,11 @@ Tài liệu này hướng dẫn **đầy đủ các bước cài đặt Shadowro
 - Đã cài ứng dụng **Shadowrocket**
 - Copy link sau:
     ---
+    V1 
        https://raw.githubusercontent.com/PhTrien/ShadowrocketConfig/refs/heads/main/ALL_IN_ONE_BY_MHALE.sgmodule?v1
-
+    ---
+    V2 Không có Loket Gold
+       https://raw.githubusercontent.com/PhTrien/ShadowrocketConfig/refs/heads/main/ALL_IN_ONE_NON_LOCKET.sgmodule?v2
 
 ## ⚠️ LƯU Ý QUAN TRỌNG (BẮT BUỘC)
 Shadowrocket **chỉ hoạt động đúng** khi:
