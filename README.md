@@ -53,10 +53,35 @@ Tài liệu này hướng dẫn **đầy đủ các bước cài đặt Shadowro
 - iPhone / iPad (iOS)
 - Đã cài ứng dụng **Shadowrocket**
 - Copy link sau:
-    V1
+    **Version# 📦 Supported Apps
+
+- YouTube Premium  
+- Spotify  
+- Locket  
+- Wink  
+- SoundCloud  
+- Truecaller  
+- *More apps coming soon...*
+
+---
+
+## 📥 How to Use
+
+Tài liệu này hướng dẫn **đầy đủ các bước cài đặt Shadowrocket trên iOS**, bao gồm:
+- Import file cấu hình
+- Cài đặt **Certificate** **(Chứng Chỉ)**
+- **BẬT chứng chỉ tin cậy (Trust Certificate)** trong iOS  
+⚠️ Nếu không bật chứng chỉ tin cậy, VPN sẽ kết nối nhưng **Không Unlock Premium AppApp**.
+
+
+## 📌 Yêu cầu
+- iPhone / iPad (iOS)
+- Đã cài ứng dụng **Shadowrocket**
+- Copy link sau:
+    **Version1  **
     ---
        https://raw.githubusercontent.com/PhTrien/ShadowrocketConfig/refs/heads/main/ALL_IN_ONE_BY_MHALE.sgmodule?v1
-    **V2 Không có Loket Gold**
+    **Version2 - non locket**
     ---
        https://raw.githubusercontent.com/PhTrien/ShadowrocketConfig/refs/heads/main/ALL_IN_ONE_NON_LOCKET.sgmodule?v2
 
