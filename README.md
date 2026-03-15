@@ -76,12 +76,10 @@ Tài liệu này hướng dẫn **đầy đủ các bước cài đặt Shadowro
 
 ## 📌 Yêu cầu
 - iPhone / iPad (iOS)
-- Đã cài ứng dụng **Shadowrocket**
+- Đã cài ứng dụng **Shadowrocket**.
 - Copy link sau:
-    **Version1  **
     ---
        https://raw.githubusercontent.com/PhTrien/ShadowrocketConfig/refs/heads/main/ALL_IN_ONE_BY_MHALE.sgmodule?v1
-    **Version2 - non locket**
     ---
        https://raw.githubusercontent.com/PhTrien/ShadowrocketConfig/refs/heads/main/ALL_IN_ONE_NON_LOCKET.sgmodule?v2
 
