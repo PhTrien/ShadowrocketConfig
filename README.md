@@ -27,8 +27,8 @@
 
 | Module | Mục đích | Link |
 | --- | --- | --- |
-| `ALL_IN_ONE_BY_MHALE.sgmodule` | Bản all-in-one gọn nhẹ, giữ cấu hình cốt lõi để dùng nhanh | [Tải về](https://raw.githubusercontent.com/PhTrien/ShadowrocketConfig/main/ALL_IN_ONE_BY_MHALE.sgmodule) |
-| `ALL_IN_ONE.sgmodule` | Bản all-in-one mở rộng: thêm DNS/Rule/rewrites và tinh chỉnh mạng chi tiết hơn | [Tải về](https://raw.githubusercontent.com/PhTrien/ShadowrocketConfig/main/ALL_IN_ONE.sgmodule) |
+| `ALL_IN_ONE_BY_MHALE.sgmodule` | Bản all-in-one gọn nhẹ, giữ cấu hình cốt lõi để dùng nhanh (ít rule mạng hơn, dễ dùng mặc định) | [Tải về](https://raw.githubusercontent.com/PhTrien/ShadowrocketConfig/main/ALL_IN_ONE_BY_MHALE.sgmodule) |
+| `ALL_IN_ONE.sgmodule` | Bản all-in-one mở rộng: thêm DNS/Rule/rewrites và tinh chỉnh mạng chi tiết hơn (chặn ads mạnh hơn, nhiều route/network tweak hơn) | [Tải về](https://raw.githubusercontent.com/PhTrien/ShadowrocketConfig/main/ALL_IN_ONE.sgmodule) |
 | `YoutubePremium.sgmodule` | Chỉ tập trung cho YouTube Premium | [Tải về](https://raw.githubusercontent.com/PhTrien/ShadowrocketConfig/main/YoutubePremium.sgmodule) |
 
 ## 🚀 Hướng dẫn sử dụng nhanh
