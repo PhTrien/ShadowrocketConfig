@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/PhTrien/ShadowrocketConfig/main/ALL_IN_ONE_BY_MHALE.sgmodule" title="Download Main Module">
+  <a href="https://raw.githubusercontent.com/PhTrien/ShadowrocketConfig/refs/heads/main/ALL_IN_ONE_BY_MHALE.sgmodule" title="Download Main Module">
     <img src="https://img.shields.io/badge/version-v1.0-0ea5e9?style=flat-pill">
   </a>
   <a href="https://apps.apple.com/app/shadowrocket/id932747118" title="Open App Store">
@@ -27,9 +27,9 @@
 
 | Module | Mục đích | Link |
 | --- | --- | --- |
-| `ALL_IN_ONE_BY_MHALE.sgmodule` | Bản all-in-one gọn nhẹ, giữ cấu hình cốt lõi để dùng nhanh (ít rule mạng hơn, dễ dùng mặc định) | [Tải về](https://raw.githubusercontent.com/PhTrien/ShadowrocketConfig/main/ALL_IN_ONE_BY_MHALE.sgmodule) |
-| `ALL_IN_ONE.sgmodule` | Bản all-in-one mở rộng: thêm DNS/Rule/rewrites và tinh chỉnh mạng chi tiết hơn (chặn ads mạnh hơn, nhiều route/network tweak hơn) | [Tải về](https://raw.githubusercontent.com/PhTrien/ShadowrocketConfig/main/ALL_IN_ONE.sgmodule) |
-| `YoutubePremium.sgmodule` | Chỉ tập trung cho YouTube Premium | [Tải về](https://raw.githubusercontent.com/PhTrien/ShadowrocketConfig/main/YoutubePremium.sgmodule) |
+| `ALL_IN_ONE_BY_MHALE.sgmodule` | Bản all-in-one gọn nhẹ, ít rule mạng, dễ dùng mặc định | [Tải về](https://raw.githubusercontent.com/PhTrien/ShadowrocketConfig/refs/heads/main/ALL_IN_ONE_BY_MHALE.sgmodule) |
+| `ALL_IN_ONE.sgmodule` | Bản all-in-one mở rộng, có thêm DNS/Rule/rewrites và network tweak | [Tải về](https://raw.githubusercontent.com/PhTrien/ShadowrocketConfig/refs/heads/main/ALL_IN_ONE.sgmodule) |
+| `YoutubePremium.sgmodule` | Chỉ tập trung cho YouTube Premium | [Tải về](https://raw.githubusercontent.com/PhTrien/ShadowrocketConfig/refs/heads/main/YoutubePremium.sgmodule) |
 
 ## 🚀 Hướng dẫn sử dụng nhanh
 
